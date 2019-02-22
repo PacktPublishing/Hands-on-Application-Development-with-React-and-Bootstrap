@@ -1,0 +1,22 @@
+.colorBox{
+    width: 100%;
+    min-height: 150px;
+    border: solid 1px silver;
+    margin: 8px;
+}
+.colorChip{
+    width:  480px;
+    height: 270px;
+    border: solid 1px silver;
+    margin: 8px;
+    cursor: pointer;
+
+}
+
+.colorChip:hover {
+    border: solid 3px blue;
+}
+
+.selected {
+    border: solid 3px red;
+}

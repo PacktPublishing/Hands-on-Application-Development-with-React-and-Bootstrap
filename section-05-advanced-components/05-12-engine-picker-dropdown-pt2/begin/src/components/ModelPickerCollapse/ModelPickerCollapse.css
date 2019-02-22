@@ -1,0 +1,25 @@
+.vehicleTitle {
+    text-align: left !important;
+}
+
+.vehicleData {
+    text-align: left !important;
+}
+
+.vehicleImage {
+    margin-right: 20px;
+    width: 480px;
+    height: 270px;
+    border: 1px gainsboro solid;
+}
+
+.clickableMedia {
+    cursor: pointer;
+    padding: 30px;
+}
+
+.vehicleSummary{
+    margin: 20px;
+    padding: 8px;
+    border: silver 1px solid;
+}
