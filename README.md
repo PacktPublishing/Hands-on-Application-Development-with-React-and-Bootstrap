@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/hands-on-application-development-with-react-and-bootstrap-video/9781789531381)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Hands-on-Application-Development-with-React-and-Bootstrap
 Hands-on Application Development with React and Bootstrap, published by Packt
 
